@@ -1,0 +1,32 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\树莓派扫描器\树莓派扫描器\bin\Release\树莓派扫描器.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\树莓派扫描器\树莓派扫描器\bin\Release\树莓派扫描器.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.exe
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.pdb
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\bin\Release\树莓派扫描器.exe
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\bin\Release\树莓派扫描器.pdb
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.Form1.resources
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.Properties.Resources.resources
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\bin\Release\树莓派扫描器.exe.manifest
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\bin\Release\树莓派扫描器.application
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.exe.manifest
+C:\Users\Administrator\Desktop\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.application
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.exe
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.pdb
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\bin\Release\树莓派扫描器.exe.manifest
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\bin\Release\树莓派扫描器.application
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\bin\Release\树莓派扫描器.exe
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\bin\Release\树莓派扫描器.pdb
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.csprojResolveAssemblyReference.cache
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.Form1.resources
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.Properties.Resources.resources
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.csproj.GenerateResource.Cache
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.exe.manifest
+F:\微云同步盘\2014\项目\树莓派扫描器\树莓派扫描器\树莓派扫描器\obj\x86\Release\树莓派扫描器.application

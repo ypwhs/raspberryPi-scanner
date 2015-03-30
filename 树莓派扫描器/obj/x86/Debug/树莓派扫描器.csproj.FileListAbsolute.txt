@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\树莓派扫描器\树莓派扫描器\bin\Debug\树莓派扫描器.exe
+c:\users\administrator\documents\visual studio 2010\Projects\树莓派扫描器\树莓派扫描器\bin\Debug\树莓派扫描器.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Debug\树莓派扫描器.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Debug\树莓派扫描器.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Debug\树莓派扫描器.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Debug\树莓派扫描器.exe
+c:\users\administrator\documents\visual studio 2010\Projects\树莓派扫描器\树莓派扫描器\obj\x86\Debug\树莓派扫描器.pdb
